@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Everyone!");
+            PrintHelloBlack();
+            PrintHelloWhite();
         }
 
         private static void PrintHelloWhite()
